@@ -28,7 +28,7 @@ This is a simple yet feature-rich text editor developed using Java Swing. It inc
   ![Website](assests/Font-Style.png)
   ![Website](assests/Left-Alignment.png)
   ![Website](assests/Save-option.png)
-  ![Website](assests/Open-file-option.png)
+  ![Website](assests/File-Open-option.png)
   ![Website](assests/Open-file-View.png)
 
 ## ▶️ Getting Started
